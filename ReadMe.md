@@ -1,6 +1,8 @@
 # The cursing Lemon Tree
 A ESP32 based project that remindes you when to water your plants.
 
+<img width="227" height="404" alt="FluchendeZitrone" src="https://github.com/user-attachments/assets/51c96634-e8c6-49a1-b52b-5b5609fe63a2" />
+
 ## Overview
 Whenever someone walks near the plant, a motion sensor triggers the system. The ESP32 then checks the soil moisture level using a dedicated sensor. If the plant is too dry, the system plays an audio file (typically a "friendly" reminder or a "curse") to get someone to water it.
 
